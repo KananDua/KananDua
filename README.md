@@ -1,30 +1,33 @@
-# 👋 Hi, I'm Kanan Dua
+Hi, I'm Kanan Dua 👋
 
-🎓 **BE – Computer Science & Engineering (Artificial Intelligence)**  
-💻 Aspiring **AI/ML Engineer & Data Analyst**  
-🌱 Currently learning: Machine Learning, SQL, Data Analytics, Git & GitHub  
-✨ Interested in: Data Science, AI projects, analytics, and real-world applications
+🎓 BE – Computer Science & Engineering (Artificial Intelligence)
+💻 Aspiring Data Analyst & Risk/Compliance Enthusiast
+🌱 Currently learning: Machine Learning, SQL, Data Analytics, Git & GitHub
+✨ Interested in: Data-driven risk analysis, compliance monitoring, AI projects, and real-world analytics
 
----
+🔧 Skills & Technologies
 
-## 🔧 Skills & Technologies
-- Python  
-- Machine Learning  
-- Data Analytics  
-- SQL  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
+Python
 
----
+Machine Learning
 
-## 📌 Projects
-Here are some of my growing projects:
+Data Analytics & Risk Assessment
 
-- **Breast Cancer Prediction (Machine Learning Project)**  
-  Developed a classification model to predict whether a tumor is benign or malignant using Python & sklearn.
+Data Visualization (Matplotlib / Seaborn)
 
-- **Pizza Sales Analysis (Data Analytics + SQL Project)**  
-  Performed data cleaning, SQL queries, and insights on sales patterns, revenue, top items, and customer behavior.
+Git & GitHub
+
+📌 Projects
+
+Breast Cancer Prediction (Machine Learning & Risk Analysis Project)
+
+Developed a predictive model to classify tumors as benign or malignant
+
+Demonstrates data handling, risk identification, and reporting skills
+
+Tools: Python, scikit-learn, Pandas, Matplotlib/Seaborn
+
+✅ This project highlights analytical skills, data-driven risk assessment, and decision-support capabilities, which are directly applicable to GRC roles.
 
 ---
 
