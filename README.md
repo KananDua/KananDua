@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanan Dua
 
-<!--
-**KananDua/KananDua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BE – Computer Science & Engineering (Artificial Intelligence)**  
+💻 Aspiring **AI/ML Engineer & Data Analyst**  
+🌱 Currently learning: Machine Learning, SQL, Data Analytics, Git & GitHub  
+✨ Interested in: Data Science, AI projects, analytics, and real-world applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+- Python  
+- Machine Learning  
+- Data Analytics  
+- SQL  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+
+---
+
+## 📌 Projects
+Here are some of my growing projects:
+
+- **Breast Cancer Prediction (Machine Learning Project)**  
+  Developed a classification model to predict whether a tumor is benign or malignant using Python & sklearn.
+
+- **Pizza Sales Analysis (Data Analytics + SQL Project)**  
+  Performed data cleaning, SQL queries, and insights on sales patterns, revenue, top items, and customer behavior.
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** www.linkedin.com/in/kanan-dua 
+- **Email:** kanandua29@gmail.com
+
+---
+
+⭐ *More projects and learning updates coming soon!*  
+
