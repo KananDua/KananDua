@@ -1,41 +1,58 @@
-Hi, I'm Kanan Dua 👋
+# 👋 Hi, I'm Kanan Vikas Dua
 
-🎓 BE – Computer Science & Engineering (Artificial Intelligence)
-💻 Aspiring Data Analyst & Risk/Compliance Enthusiast
-🌱 Currently learning: Machine Learning, SQL, Data Analytics, Git & GitHub
-✨ Interested in: Data-driven risk analysis, compliance monitoring, AI projects, and real-world analytics
+🎓 **BE – Computer Science & Engineering (AI)**  
+💼 Aspiring **Infosec (GRC), Data Analyst & AI/ML Engineer**  
+📍 Haryana, India  
 
-🔧 Skills & Technologies
+I am passionate about solving real-world problems using **data, analytics, risk assessment, and AI-driven insights**.  
+Currently exploring **Governance, Risk & Compliance (GRC)** and **ML-based decision-making systems**.
 
-Python
+---
 
-Machine Learning
+## 🔧 Skills & Technologies
 
-Data Analytics & Risk Assessment
+**Programming & Analytics**
+- Python, SQL, Data Analytics  
+- Machine Learning (Regression, Classification)  
+- Data Visualization (Matplotlib, Seaborn)  
+- Excel, Power BI  
 
-Data Visualization (Matplotlib / Seaborn)
+**Tech & Tools**
+- Jupyter Notebook  
+- Git & GitHub  
+- HTML, CSS  
 
-Git & GitHub
+**Interests**
+- Risk & Compliance (GRC)  
+- Cyber hygiene basics  
+- AI/ML for risk prediction  
+- Product & Tech Research  
 
-📌 Projects
+---
 
-Breast Cancer Prediction (Machine Learning & Risk Analysis Project)
+## 📌 Featured Project
 
-Developed a predictive model to classify tumors as benign or malignant
+### 🩺 **Breast Cancer Prediction (ML + Risk Analysis)**  
+A supervised machine learning model to classify tumors as **benign or malignant**.  
+This project demonstrates:
+- Data cleaning & preprocessing  
+- Feature analysis  
+- Model building (Logistic Regression, KNN, Random Forest, SVM)  
+- Risk identification through ML predictions  
+- Evaluation using accuracy & confusion matrix  
 
-Demonstrates data handling, risk identification, and reporting skills
+**Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib  
 
-Tools: Python, scikit-learn, Pandas, Matplotlib/Seaborn
-
-
+🔗 *(More projects and learning updates coming soon)*  
 
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/kanan-dua 
-- **Email:** kanandua29@gmail.com
+
+🔗 **LinkedIn:** www.linkedin.com/in/kanan-dua  
+📩 **Email:** kanandua29@gmail.com  
+🐙 **GitHub:** github.com/KananDua  
 
 ---
 
-⭐ *More projects and learning updates coming soon!*  
-
+⭐ *Open to collaborations, internships, and opportunities in Infosec (GRC), Data, and AI/ML.*
