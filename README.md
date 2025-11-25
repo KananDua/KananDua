@@ -27,7 +27,7 @@ Demonstrates data handling, risk identification, and reporting skills
 
 Tools: Python, scikit-learn, Pandas, Matplotlib/Seaborn
 
-✅ This project highlights analytical skills, data-driven risk assessment, and decision-support capabilities, which are directly applicable to GRC roles.
+
 
 ---
 
